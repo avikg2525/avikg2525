@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @avikg2525
-- 👀 I’m interested in Entrepreneurship Go, Python, Data science, Web development , java script
+- 👀 I’m interested in Entrepreneurship, Go, Python, Data science, Web development , java script
 - 🌱 I’m currently learning Data scieence
 - 💞️ I’m looking to collaborate on new startup , projects
 - 📫 How to reach me mail id- ghoshavik853@gmail.com
